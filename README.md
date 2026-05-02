@@ -1,2 +1,2 @@
 # Script_Repo-02
-Basic commands and automations
+A script that helps users filter through a set of log files, like the access.log file 
