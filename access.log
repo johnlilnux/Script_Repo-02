@@ -1,0 +1,5 @@
+192.168.1.1 - - [10/Mar] "GET /index.html"
+192.168.1.2 - - [10/Mar] "POST /login"
+192.168.1.1 - - [10/Mar] "GET /dashboard"
+192.168.1.3 - - [10/Mar] "GET /index.html"
+192.168.1.2 - - [10/Mar] "GET /profile"
