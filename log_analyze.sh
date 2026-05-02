@@ -14,7 +14,7 @@ if [[ ! -f "$file" ]]; then
 	exit 1
 fi
 
-#IP fliters
+#IP filter
 echo "----All ips---"
 awk '{print $1}' "$file"
 echo
